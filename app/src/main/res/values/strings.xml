@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app-project-bank</string>
+    <string name="digite_seu_user">digite seu user</string>
+    <string name="digite_sua_senha">digite sua senha</string>
+    <string name="login">Login</string>
+    <string name="sing_in">Sing in</string>
+    <string name="title_activity_menu">Menu</string>
+</resources>
